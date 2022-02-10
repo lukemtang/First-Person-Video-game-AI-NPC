@@ -35,7 +35,8 @@
   </p>
     <h2> Planned future additions</h2>
   <p>
-    - Gameplay features beyond just training the agent; linetrace damage system from the player's weapon, NPC respawns, score and rounds, etc.
+   - Gameplay features beyond just training the agent; linetrace damage system from the player's weapon, NPC respawns, score and rounds, etc.
+    <br>- Video demos of the models included in the repo to demonstrate the projecvt without the need to download and install unreal engine.
     <br>-  Cosmetic additions; textures and animations.
   </p>
 
