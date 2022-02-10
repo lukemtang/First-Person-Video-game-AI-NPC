@@ -3,7 +3,7 @@
 <body>
   <h2> What is this project?</h2>
   <p>
-    This repo containes the source files and runnable builds of a MSc Computer Science project, produced furing summer 2021. The project intends to build an AI NPC, with behaviour trained purely through reinforcement learning.
+    This repo containes the source files and runnable builds of my MSc Computer Science project, produced during August and September 2021. The primary goal of the project is to build an AI NPC, with behaviour trained purely through reinforcement learning.
   </p>
     <h2> What files are there?</h2>
    <p>
@@ -32,6 +32,11 @@
     StationaryDQN - Agent moves to the players location if the player does not move from the starting spot. Trained with DQN for 3000 iterations
     <br> Stationary_PPo2 - Agent moves to the players location if the pplayer does not move from the starting sport. Trained with PPO2 for 3000 iterations
     <br> MovingPPO2 - Agent should move towards the player, even if the player moves about. Trained with PPO2 for 5000 iterations.
+  </p>
+    <h2> Planned future additions</h2>
+  <p>
+    - Gameplay features beyond just training the agent; linetrace damage system from the player's weapon, NPC respawns, score and rounds, etc.
+    <br>-  Cosmetic additions; textures and animations.
   </p>
 
 </body>
