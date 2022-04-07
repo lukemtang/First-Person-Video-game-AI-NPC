@@ -1,5 +1,5 @@
 
-<h1><b>First-Person Shooter Video Game with Reinforcement-Learning Trained Game AI</b></h1>
+<h1><b>First-Person Video Game with Reinforcement-Learning Trained Game AI</b></h1>
 <body>
   <h2> What is this project?</h2>
   <p>
