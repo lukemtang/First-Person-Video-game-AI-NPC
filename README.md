@@ -41,11 +41,6 @@ https://user-images.githubusercontent.com/71343952/181608553-32a677da-9325-4db1-
     <br> Stationary_PPo2 - Agent moves to the players location if the pplayer does not move from the starting sport. Trained with PPO2 for 3000 iterations
     <br> MovingPPO2 - Agent should move towards the player, even if the player moves about. Trained with PPO2 for 5000 iterations.
   </p>
-    <h2> Planned future additions</h2>
-  <p>
-   - Gameplay features beyond just training the agent; linetrace damage system from the player's weapon, NPC respawns, score and rounds, etc.
-    <br>- Video demos of the models included in the repo to demonstrate the projecvt without the need to download and install unreal engine.
-    <br>-  Cosmetic additions; textures and animations.
-  </p>
+
 
 </body>
