@@ -1,6 +1,11 @@
 
 <h1><b>First-Person Video Game with Reinforcement-Learning Trained Game AI</b></h1>
 <body>
+  
+  <h3>The project report can be read here: <br><br> https://github.com/lukemtang/First-Person-Video-game-AI-NPC/blob/a8e976220a3835e1452c514b022d8e3bb729d11c/Project%20Report%20-%20First-Person%20Shooter%20Video%20Game%20with%20Reinforcement-Learning%20Trained%20Game%20AI.pdf
+  </h3>
+
+  
   <h2> What is this project?</h2>
   <p>
     This repo containes the source files and runnable builds of my MSc Computer Science project, produced during August and September 2021. The primary goal of the project is to build an AI NPC, with behaviour trained purely through reinforcement learning.
