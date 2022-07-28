@@ -2,6 +2,10 @@
 <h1><b>First-Person Video Game with Reinforcement-Learning Trained Game AI</b></h1>
 <body>
   
+  <p>
+https://user-images.githubusercontent.com/71343952/181608553-32a677da-9325-4db1-ab78-701f97f2513d.mp4
+  </p>
+  
   <h3>The project report can be read here: <br><br> https://github.com/lukemtang/First-Person-Video-game-AI-NPC/blob/a8e976220a3835e1452c514b022d8e3bb729d11c/Project%20Report%20-%20First-Person%20Shooter%20Video%20Game%20with%20Reinforcement-Learning%20Trained%20Game%20AI.pdf
   </h3>
 
