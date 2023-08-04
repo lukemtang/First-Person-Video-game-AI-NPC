@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/71343952/181608553-32a677da-9325-4db1-
    <h2> How to access trained models</h2>
    <p>
       Unfortunately, I was not able to export the project to a runnable file. However, it is forunately still possible to access and run the trained models to validate my work.
-    <br><br> 1. Install Unreal Engine
+    <br><br> 1. Install Unreal Engine - you will need version 4.26 to run the models.
      <br> 2. Move 'CS_Project_4.26' to documents/Unreal Projects
      <br> 3. Download any of the trained models you would like to run.
      <br> 4. Move these folders (still zipped!) to: C:\Users\<i>username</i>\AppData\Roaming
